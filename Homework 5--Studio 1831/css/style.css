@@ -1,0 +1,146 @@
+*,body{
+	margin:0px;
+	padding:0px;
+}
+.wrapper{
+	max-width:900px;
+	display:block;
+	margin:0 auto;
+	width:96%;
+	padding:0px 2%;
+}
+.div{
+	display:block;
+}
+h1{
+	text-align:left;
+	padding:20px;
+	font-family:"Tangerine",cursive;
+	font-size:50px;
+	color:#67f7da;
+}
+
+h3{
+	font-family: arial;
+	padding:10px;
+	text-align:left;
+	color:#002a59;
+	font-size:30px;
+	margin:0 auto;
+}
+
+p{
+	font-family: arial;
+	font-size:20px;
+}
+ul{
+	list-style-type:none;
+	margin:0px;
+	padding:0px;
+	display:inline-block;
+}
+li a{
+	text-align:center;
+	display:inline-block;
+	padding:8px 16px;
+	text-decoration:none;
+	color:#2ae7fc;
+}
+
+li a:hover{
+	background-color:#000000;
+	color:white;
+}
+
+	
+/*header*/
+header{
+	background:url(../images/yoga-wallpaper-hd-download-and-meditation-wallpaper-10-660x330.jpg);
+	background-size:cover;
+	height:100vh;
+}
+.top img {
+    background-image: url("background circle nav.jpg");
+    opacity: 0.639;
+    position: absolute;
+    left: 173px;
+   top: 235px;
+    width: 128px;
+    height: 129px;
+    z-index: 47;
+}
+
+/*first-content*/
+
+.first-content{
+      padding:20px 0px;
+      margin-top:-100px;
+      margin-left:0 auto;
+
+}
+.first-content .row{
+	clear:both;
+}
+.first-content .row .block{
+	width:30%;
+	margin-right:3%;
+	margin-top:3%;
+	float:left;
+	border:1px solid #000;
+	padding:0px;
+}
+.first-content .row .block img{
+	width:100%;
+
+}
+
+/*second-content*/
+.second-content{
+	padding:40px;
+	background:#67f7da;
+}
+
+div.item{
+	vertical-align:top;
+	text-align:right;
+	display:inline-block;
+	width:120px;
+	padding:80px;
+
+
+}
+.second-content img{
+	width:200%;
+	height:200px;
+	border-radius:90%;
+	background-color:grey;
+	margin:0 auto;
+
+}
+.caption{
+	display:block;
+}
+/*thrid-content*/
+form{
+	padding:10px;
+	margin:0 auto;
+}
+/*footer*/
+footer{
+	background-color:#262525;
+	padding:40px 0px;
+	color:white;
+}
+div.left{
+	float:left;
+	margin:0 auto;
+	text-align:left;
+	width:45%;
+
+}
+div.right{
+	float:right;
+	width:45%;
+	margin-right:70%;
+	margin:0 auto;
+}
