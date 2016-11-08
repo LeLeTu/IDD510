@@ -1,0 +1,206 @@
+*,body{
+	margin:0px;
+	padding:0px;
+}
+.wrapper{
+	max-width:900px;
+	display:block;
+	margin:0 auto;
+	width:96%;
+	padding:0px 2%;
+}
+
+.div{
+	display:block;
+}
+
+h1{
+	text-align:left;
+	padding:20px;
+	font-family:"Tangerine",cursive;
+	font-size:50px;
+	color:#37989e;
+}
+
+h3{
+	font-family: arial;
+	padding:30px;
+	text-align:center;
+}
+
+p{
+	font-family: arial;
+	font-size:20px;
+}	
+/*header*/
+
+header .top .left h1{
+	float:left;
+    font-size:90px;
+    font-color:blue;
+}
+
+header .top .right{
+	float:right;
+	font-size:15px;
+		
+}
+header .top .right ul li img{
+         float:left;
+         margin-top:-2px;
+}
+header .top .right ul a{
+        text-decoration:none;
+        color:black;
+}
+header .top .right ul{
+	list-style:none;
+}
+header .top .right ul li{
+	list-style:none;
+	display:inline-block;
+	margin-top:45%;
+	text-decoration:none;
+
+}
+header .top .right img{
+	float:right;
+}
+@media screen and (max-width:500px){
+	header{
+		float:none;
+		width:auto;
+	}
+}
+/*nav*/
+.nav a{
+		text-decoration:none;
+		color:black;
+}
+.nav ul{
+	text-align:center;
+}
+.nav ul li{
+	list-style:none;
+	display:inline-block;
+	margin-left:5%;
+}
+@media screen and (max-width:500px){
+	.nav{
+		float:none;
+		width:30%;
+	}
+}
+/*headerimage*/
+.headerimage{
+	background:url(../images/636015415162132391-737000604_lovely-meditation-wallpaper-42658-43669-hd-wallpapers.jpg);
+	background-size:cover;
+	margin-top:40%;
+	height:1100px;
+	
+}
+.headerimage h2{
+	color:#fff;
+	text-align:left;
+	margin-top:-63%;
+	font-size:45px;
+	padding:30px;
+}
+.headerimage h4{
+	color:#fff;
+	text-align:left;
+	font-size:25px;
+	padding:40px;
+}
+@media screen and (max-width:500px){
+	.headerimage{
+		float:right;
+		width:70%;
+	}
+	img{
+		max-width:100%;
+	}
+}
+/*first-section*/
+.first-section .wrapper{
+	max-width:900px;
+	margin-left:10%;
+	margin-top:5%;
+}
+.first-section{
+	margin:20%;
+}
+.first-section{
+	display:block;
+    margin:0 auto;
+    padding:10px 0px;
+    margin-top:-15%;
+	clear:both;
+}
+.first-section .row{
+	z-index:9000;
+	position:relative;
+}
+.first-section .row .block{
+	float:left;
+	width:15%;
+	margin-right:40px;
+	padding:1%;
+	padding-bottom:0px;
+	margin-left:9%;
+}
+
+.first-section .row .block img{
+     width:200%;
+}
+@media screen and (max-width:500px){
+	
+}
+/*second-content*/
+
+.second-section h2{
+	text-align:center;
+	font-size:40px;
+	margin-top:40px;
+}
+.second-section img{
+	width:20%;
+	float:left;
+	padding:50px;
+	margin-bottom:0px;
+}
+.second-section{
+	clear:both;
+}
+/*third-section*/
+.third-section{
+	margin-top:50px;
+}
+.third-section h4{
+	text-align:center;
+	font-size:30px;
+	padding:20px;
+}
+.third-section form{
+	padding:30px;
+}
+/*footer*/
+footer{
+	background-color:#262525;
+	padding:40px 0px;
+	color:#fff;
+}
+footer.left{
+	float:left;
+	margin-right:5%;
+	text-align:left;
+	width:45%;
+	font-color:white;
+}
+footer.right{
+	float:right;
+	text-align:right;
+	width:45%;
+	margin-right:5%;
+	font-color:white;	
+}
