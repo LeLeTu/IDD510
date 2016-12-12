@@ -1,0 +1,111 @@
+/*headerimage*/
+.headerimage{
+	background:url(../images/therapistshearimgrenew.png);
+	background-size:cover;	
+	height:400px;
+}
+@media screen and (max-width:1140px){
+    .headerimage{
+    	height:337px;
+    	margin-top:35px;
+    }
+}
+@media screen and (max-width:1040px){
+    .headerimage{
+    	height:317px;
+    	margin-top:35px;
+    }
+}
+@media screen and (max-width:640px){
+    .headerimage{
+    	height:190px;
+    	margin-top:114px;
+    }
+}
+@media screen and (max-width:400px){
+    .headerimage{
+    	height:120px;
+    	margin-top:114px;
+    }
+}
+/*first-section*/
+.first-section .leftimg img{
+	float:none;
+	margin-top:15%;
+	margin-left:-5%;
+}
+.titlename{
+	float:none;
+	font-family:arial,bold;
+	font-size:30px;
+	padding-right:30%;
+	margin-top:-25%;
+}
+.content{
+	float:none;
+	font-size:16px;
+	font-family:arial;
+	font-weight:500;
+	line-height:26px;
+	margin-left:26%;
+	margin-bottom:10%;
+}
+@media screen and (max-width:1100px){
+	.first-section .leftimg img{
+		margin-left:40%;
+		margin-top:3%;
+	}
+	.titlename{
+		margin-top:0%;
+		margin-left:31%;
+	}
+	.content{
+		margin-left:12%;
+	}
+}
+@media screen and (max-width:780px){
+	.first-section .leftimg img{
+		width:30%;
+		margin-left:34%;
+		margin-top:12%;
+	}
+	.titlename{
+		margin-top:0%;
+		margin-left:24%;
+		font-size:27px;
+	}
+	.content{
+		margin-left:12%;
+		width:80%;
+	}
+}
+@media screen and (max-width:470px){
+	.first-section .leftimg img{
+		width:30%;
+		margin-top:40px;
+	}
+	.titlename{
+		margin-top:0%;
+		margin-left:21%;
+		font-size:23px;
+	}
+}
+@media screen and (max-width:385px){
+	.first-section .leftimg img{
+		width:46%;
+		margin-top:40px;
+		margin-left:85px;
+	}
+	.titlename{
+		margin-top:0%;
+		margin-left:16%;
+		font-size:21px;
+	}
+	.content{
+		font-weight:100;
+	}
+}
+/*footer*/
+footer{
+    margin-top:0%;
+}

@@ -1,0 +1,132 @@
+/*headertopbar*/
+header .topbar .right ul{
+    margin-right:7.1%;
+}
+/*headerimage*/
+.headerimage{
+	background:url(../images/massageheaderimagerenew.png);
+	background-size:cover;	
+	margin-top:-9%;
+	height:750px;
+}
+.headertext1{
+	padding-top:60%;
+}
+.subtext{
+	padding-top:1%;
+}
+.headerimage a{
+	      background-color:#2cd7c4;
+	      padding:20px;
+          text-align:center;
+          text-decoration:none;
+          display:block;
+          margin:0px auto;
+          margin-top:5px;
+          font-size:30px;
+          width:500px;
+          color:white;
+          opacity:0.8;
+
+}
+.headerimage a:hover{
+	background-color:black;
+}
+@media screen and (max-width:1000px){
+    .headerimage{
+    	height:600px;
+    	margin-top:0px;
+    }
+    .headertext1{
+        padding-top:47%;
+    }
+}
+
+@media screen and (max-width:850px){
+    .headerimage{
+    	height:550px;
+    	margin-top:0px;
+    }
+    .headertext1{
+        padding-top:54%;
+    }
+}
+@media screen and (max-width:710px){
+    .headerimage{
+    	height:500px;
+    	margin-top:0px;
+    }
+    .headertext1{
+        padding-top:51%;
+    }
+    .headerimage h2{
+    	font-size:30px;
+    }
+}
+@media screen and (max-width:590px){
+    .headerimage{
+    	height:450px;
+    	margin-top:34px;
+    }
+    .headertext1{
+        padding-top:56%;
+    }
+    .headerimage h2{
+    	font-size:26px;
+    }
+    .headerimage a{
+    	width:400px;
+    }
+}
+@media screen and (max-width:510px){
+    .headerimage{
+    	height:450px;
+    	margin-top:34px;
+    }
+    .headertext1{
+        padding-top:62%;
+    }
+    .headerimage h2{
+    	font-size:22px;
+    }
+    .headerimage a{
+    	width:350px;
+    }
+
+}
+@media screen and (max-width:460px){
+    .headerimage{
+    	height:450px;
+    	margin-top:34px;
+    }
+    .headertext1{
+        padding-top:69%;
+    }
+    .headerimage h2{
+    	font-size:20px;
+    }
+    .headerimage a{
+    	width:300px;
+
+    }
+}
+@media screen and (max-width:400px){
+    .headerimage{
+    	height:450px;
+    	margin-top:34px;
+    }
+    .headertext1{
+        padding-top:71%;
+    }
+    .headerimage h2{
+    	font-size:18px;
+    }
+    .headerimage a{
+    	width:250px;
+
+    }
+}
+/*footer*/
+footer{
+    margin-top:0%;
+}

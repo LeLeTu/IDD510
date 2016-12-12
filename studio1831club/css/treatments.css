@@ -1,0 +1,781 @@
+/*headerimage*/
+.headerimage{
+	background:url(../images/massagetreatmentrenew.png);
+	background-size:cover;	
+	height:786px;
+	margin-top:-11%;
+}
+@media screen and (max-width:840px){
+	 .headerimage{
+	 	background:url(../images/massagetreatmentrenew.png);
+	 	background-size:cover;
+	 	margin-top:95px;
+	 	height:400px;
+	 }
+	 .headerimage h2{
+	 	margin-top:-12%;
+	 	margin-left:94px;
+	 }
+	 h5{
+	 	padding:0%;
+	 	padding-top:39%;
+	 	line-height:15px;
+	 }
+}
+@media screen and (max-width:770px){
+	 .headerimage{
+	 	background:url(../images/massagetreatmentrenew.png);
+	 	background-size:cover;
+	 	margin-top:93px;
+	 	height:400px;
+	 }
+	 .headerimage h2{
+	 	margin-top:-14%;
+	 	margin-left:46px;
+	 }
+	 h5{
+	 	padding:0%;
+	 	padding-top:44%;
+	 	line-height:15px;
+	 }
+}
+@media screen and (max-width:600px){
+	 .headerimage{
+	 	background:url(../images/massagetreatmentrenew.png);
+	 	background-size:cover;
+	 	margin-top:115px;
+	 	height:300px;
+	 }
+	 .headerimage h2{
+	 	margin-top:-18%;
+	 	margin-left:38px;
+	 }
+	 h5{
+	 	padding:0%;
+	 	padding-top:33%;
+	 	line-height:15px;
+	 }
+}
+@media screen and (max-width:380px){
+	  .headerimage{
+	 	background:url(../images/massagetreatmentrenew.png);
+	 	background-size:cover;
+	 	margin-top:114px;
+	 	height:200px;
+	 }
+	 .headerimage h2{
+	 	margin-top:-36%;
+	 	margin-left:-22px;
+	 	font-size:28px;
+	 }
+	 h5{
+	 	padding:0%;
+	 	padding-top:33%;
+	 	line-height:15px;
+	 }
+}
+/*first-section*/
+.first-section .insidemassage1 .leftsiteone{
+	background-color:#ECAAB9;
+	width:300px;
+	height:350px;
+	margin-top:11%;
+}
+.first-section .insidemassage1 .leftsiteone img{
+	position:relative;
+	margin-top:-35%;
+	margin-left:63px;
+}
+.first-section .insidemassage1 .leftsiteone .title{
+	font-size:30px;
+	font-weight:100;
+	margin-left:-2%;
+}
+.first-section .insidemassage1 .leftsiteone .time{
+	margin-left:89px;
+	font-family:arial;
+	color:#434141;
+	font-size:24px;
+	margin-top:-5%;
+}
+.first-section .insidemassage1 .leftsiteone .fee1{
+	margin-left:92px;
+	font-family:arial;
+	color:#434141;
+}
+.first-section .insidemassage1 .leftsiteone .fee2{
+	margin-left:92px;
+	font-family:arial;
+	color:#434141;
+}
+.first-section .insidemassage1 .leftsiteone .text{
+	margin-left:12px;
+	font-family:arial;
+	color:#434141;
+	font-weight:100;	
+}
+.first-section .insidemassage1 .rightsiteone .introone{
+	margin-left:40%;
+	margin-top:-30%;
+	font-family:arial;
+	color:#624f3f;
+}
+.first-section .insidemassage1 .rightsiteone .good{
+	font-family:arial;
+	margin-left:-11%;
+	color:#996633;
+}
+.first-section .insidemassage1 .rightsiteone .goodsite{
+    font-family:arial;
+	margin-left:41.5%;
+	margin-top:-11px;
+	color:#624f3f;
+}
+@media screen and (max-width:1110px){
+	.first-section .insidemassage1 .leftsiteone{
+		margin-left:35%;
+	}
+	.first-section .insidemassage1 .rightsiteone .introone{
+		margin-left:26%;
+		margin-top:3%;
+		width:53%;
+	}
+	.first-section .insidemassage1 .rightsiteone .good{
+		margin-left:-39%;
+	}
+	.first-section .insidemassage1 .rightsiteone .goodsite{
+		margin-left:27%;
+	}
+}
+@media screen and (max-width:900px){
+	.first-section .insidemassage1 .leftsiteone{
+		margin-left:35%;
+		margin-top:15%;
+	}
+	.first-section .insidemassage1 .rightsiteone .introone{
+		margin-left:26%;
+		margin-top:3%;
+		width:53%;
+	}
+	.first-section .insidemassage1 .rightsiteone .good{
+		margin-left:-37%;
+	}
+	.first-section .insidemassage1 .rightsiteone .goodsite{
+		margin-left:28%;
+	}
+}
+@media screen and (max-width:670px){
+	.first-section .insidemassage1 .leftsiteone{
+		margin-left:27%;
+		margin-top:23%;
+	}
+	.first-section .insidemassage1 .rightsiteone .introone{
+		margin-left:26%;
+		margin-top:3%;
+		width:56%;
+	}
+	.first-section .insidemassage1 .rightsiteone .good{
+		margin-left:-33%;
+	}
+	.first-section .insidemassage1 .rightsiteone .goodsite{
+		margin-left:29%;
+	}
+}
+@media screen and (max-width:450px){
+	.first-section .insidemassage1 .leftsiteone{
+		margin-left:15%;
+		margin-top:31%;
+	}
+	.first-section .insidemassage1 .rightsiteone .introone{
+		margin-left:14%;
+		margin-top:3%;
+		width:79%;
+	}
+	.first-section .insidemassage1 .rightsiteone .good{
+		margin-left:-50%;
+	}
+	.first-section .insidemassage1 .rightsiteone .goodsite{
+		margin-left:18%;
+	}
+}
+@media screen and (max-width:380px){
+	.first-section .insidemassage1 .leftsiteone{
+		margin-left:2%;
+		margin-top:39%;
+	}
+	.first-section .insidemassage1 .rightsiteone .introone{
+		margin-left:2%;
+		margin-top:3%;
+		width:97%;
+	}
+	.first-section .insidemassage1 .rightsiteone .good{
+		margin-left:-66%;
+	}
+	.first-section .insidemassage1 .rightsiteone .goodsite{
+		margin-left:7%;
+	}
+}
+/*second-section*/
+.second-section .insidemassage2 .leftsitetwo{
+	background-color:#ECAAB9;
+	width:300px;
+	height:350px;
+	margin-top:20%;
+}
+.second-section .insidemassage2 .leftsitetwo img{
+	position:relative;
+	margin-top:-35%;
+	margin-left:63px;
+}
+.second-section .insidemassage2 .leftsitetwo .title{
+	font-size:30px;
+	font-weight:100;
+	margin-left:0%;
+	margin-top:-20px;
+}
+.second-section .insidemassage2 .leftsitetwo .time{
+	margin-left:89px;
+	font-family:arial;
+	color:#434141;
+	font-size:24px;
+	margin-top:-5%;
+}
+.second-section .insidemassage2 .leftsitetwo .fee1{
+	margin-left:92px;
+	font-family:arial;
+	color:#434141;
+}
+.second-section .insidemassage2 .leftsitetwo .fee2{
+	margin-left:92px;
+	font-family:arial;
+	color:#434141;
+}
+.second-section .insidemassage2 .leftsitetwo .text{
+	margin-left:12px;
+	font-family:arial;
+	color:#434141;
+	font-weight:100;
+}
+.second-section .insidemassage2 .rightsitetwo .introtwo{
+	margin-left:40%;
+	margin-top:-30%;
+	font-family:arial;
+	color:#624f3f;
+}
+.second-section .insidemassage2 .rightsitetwo .good{
+	font-family:arial;
+	margin-left:-11%;
+	color:#996633;
+}
+.second-section .insidemassage2 .rightsitetwo .goodsite{
+    font-family:arial;
+	margin-left:41.5%;
+	margin-top:-11px;
+	color:#624f3f;
+}
+@media screen and (max-width:1110px){
+	.second-section .insidemassage2 .leftsitetwo{
+		margin-left:35%;
+	}
+	.second-section .insidemassage2 .rightsitetwo .introtwo{
+		margin-left:26%;
+		margin-top:3%;
+		width:53%;
+	}
+	.second-section .insidemassage2 .rightsitetwo .good{
+		margin-left:-39%;
+	}
+	.second-section .insidemassage2 .rightsitetwo .goodsite{
+		margin-left:27%;
+	}
+}
+@media screen and (max-width:900px){
+	.second-section .insidemassage2 .rightsitetwo .good{
+		margin-left:-37%;
+	}
+	.second-section .insidemassage2 .rightsitetwo .goodsite{
+		margin-left:28%;
+	}
+}
+@media screen and (max-width:670px){
+	.second-section .insidemassage2 .leftsitetwo{
+		margin-left:27%;
+		margin-top:23%;
+	}
+	.second-section .insidemassage2 .rightsitetwo .introtwo{
+		margin-left:26%;
+		margin-top:3%;
+		width:56%;
+	}
+	.second-section .insidemassage2 .rightsitetwo .good{
+		margin-left:-33%;
+	}
+	.second-section .insidemassage2 .rightsitetwo .goodsite{
+		margin-left:29%;
+	}
+}
+@media screen and (max-width:450px){
+	.second-section .insidemassage2 .leftsitetwo{
+		margin-left:15%;
+		margin-top:31%;
+	}
+	.second-section .insidemassage2 .rightsitetwo .introtwo{
+		margin-left:14%;
+		margin-top:3%;
+		width:79%;
+	}
+	.second-section .insidemassage2 .rightsitetwo .good{
+		margin-left:-50%;
+	}
+	.second-section .insidemassage2 .rightsitetwo .goodsite{
+		margin-left:18%;
+	}
+}
+@media screen and (max-width:380px){
+	.second-section .insidemassage2 .leftsitetwo{
+		margin-left:2%;
+		margin-top:39%;
+	}
+	.second-section .insidemassage2 .rightsitetwo .introtwo{
+		margin-left:2%;
+		margin-top:3%;
+		width:97%;
+	}
+	.second-section .insidemassage2 .rightsitetwo .good{
+		margin-left:-66%;
+	}
+	.second-section .insidemassage2 .rightsitetwo .goodsite{
+		margin-left:7%;
+	}
+}
+/*third-section*/
+.third-section .insidemassage3 .leftsitethree{
+	background-color:#ECAAB9;
+	width:300px;
+	height:350px;
+	margin-top:20%;
+}
+.third-section .insidemassage3 .leftsitethree img{
+	position:relative;
+	margin-top:-35%;
+	margin-left:63px;
+}
+.third-section .insidemassage3 .leftsitethree .title{
+	font-size:30px;
+	font-weight:100;
+	margin-left:-2%;
+}
+.third-section .insidemassage3 .leftsitethree .time{
+	margin-left:89px;
+	font-family:arial;
+	color:#434141;
+	font-size:24px;
+	margin-top:-5%;
+}
+.third-section .insidemassage3 .leftsitethree .fee1{
+	margin-left:92px;
+	font-family:arial;
+	color:#434141;
+}
+.third-section .insidemassage3 .leftsitethree .fee2{
+	margin-left:92px;
+	font-family:arial;
+	color:#434141;
+}
+.third-section .insidemassage3 .leftsitethree .text{
+	margin-left:12px;
+	font-family:arial;
+	color:#434141;
+	font-weight:100;
+}
+.third-section .insidemassage3 .rightsitethree .introthree{
+	margin-left:40%;
+	margin-top:-30%;
+	font-family:arial;
+	color:#624f3f;
+}
+.third-section .insidemassage3 .rightsitethree .good{
+	font-family:arial;
+	margin-left:-11%;
+	color:#996633;
+}
+.third-section .insidemassage3 .rightsitethree .goodsite{
+    font-family:arial;
+	margin-left:41.5%;
+	margin-top:-11px;
+	color:#624f3f;
+}
+@media screen and (max-width:1110px){
+	.third-section .insidemassage3 .leftsitethree{
+		margin-left:35%;
+	}
+	.third-section .insidemassage3 .rightsitethree .introthree{
+		margin-left:26%;
+		margin-top:3%;
+		width:53%;
+	}
+	.third-section .insidemassage3 .rightsitethree .good{
+		margin-left:-39%;
+	}
+	.third-section .insidemassage3 .rightsitethree .goodsite{
+		margin-left:27%;
+	}
+}
+@media screen and (max-width:900px){
+	.third-section .insidemassage3 .rightsitethree .good{
+		margin-left:-37%;
+	}
+	.third-section .insidemassage3 .rightsitethree .goodsite{
+		margin-left:28%;
+	}
+}
+@media screen and (max-width:670px){
+	.third-section .insidemassage3 .leftsitethree{
+		margin-left:27%;
+		margin-top:23%;
+	}
+	.third-section .insidemassage3 .rightsitethree .introthree{
+		margin-left:26%;
+		margin-top:3%;
+		width:56%;
+	}
+	.third-section .insidemassage3 .rightsitethree .good{
+		margin-left:-33%;
+	}
+	.third-section .insidemassage3 .rightsitethree .goodsite{
+		margin-left:29%;
+	}
+}
+@media screen and (max-width:450px){
+	.third-section .insidemassage3 .leftsitethree{
+		margin-left:15%;
+		margin-top:31%;
+	}
+	.third-section .insidemassage3 .rightsitethree .introthree{
+		margin-left:14%;
+		margin-top:3%;
+		width:79%;
+	}
+	.third-section .insidemassage3 .rightsitethree .good{
+		margin-left:-50%;
+	}
+	.third-section .insidemassage3 .rightsitethree .goodsite{
+		margin-left:18%;
+	}
+}
+@media screen and (max-width:380px){
+	.third-section .insidemassage3 .leftsitethree{
+		margin-left:2%;
+		margin-top:39%;
+	}
+	.third-section .insidemassage3 .rightsitethree .introthree{
+		margin-left:2%;
+		margin-top:3%;
+		width:97%;
+	}
+	.third-section .insidemassage3 .rightsitethree .good{
+		margin-left:-66%;
+	}
+	.third-section .insidemassage3 .rightsitethree .goodsite{
+		margin-left:7%;
+	}
+}
+/*fourth-section*/
+.fourth-section .insidemassage4 .leftsitefour{
+	background-color:#ECAAB9;
+	width:300px;
+	height:350px;
+	margin-top:20%;
+}
+.fourth-section .insidemassage4 .leftsitefour img{
+	position:relative;
+	margin-top:-35%;
+	margin-left:63px;
+}
+.fourth-section .insidemassage4 .leftsitefour .title{
+	font-size:30px;
+	font-weight:100;
+	margin-left:-2%;
+	margin-top:-27px;
+}
+.fourth-section .insidemassage4 .leftsitefour .time{
+	margin-left:89px;
+	font-family:arial;
+	color:#434141;
+	font-size:24px;
+	margin-top:-5%;
+}
+.fourth-section .insidemassage4 .leftsitefour .fee1{
+	margin-left:92px;
+	font-family:arial;
+	color:#434141;
+}
+.fourth-section .insidemassage4 .leftsitefour .fee2{
+	margin-left:92px;
+	font-family:arial;
+	color:#434141;
+}
+.fourth-section .insidemassage4 .leftsitefour .text{
+	margin-left:12px;
+	font-family:arial;
+	color:#434141;
+	font-weight:100;
+}
+.fourth-section .insidemassage4 .rightsitefour .introfour{
+	margin-left:40%;
+	margin-top:-30%;
+	font-family:arial;
+	color:#624f3f;
+}
+.fourth-section .insidemassage4 .rightsitefour .good{
+	font-family:arial;
+	margin-left:-11%;
+	color:#996633;
+}
+.fourth-section .insidemassage4 .rightsitefour .goodsite{
+    font-family:arial;
+	margin-left:41.5%;
+	margin-top:-11px;
+	color:#624f3f;
+}
+@media screen and (max-width:1110px){
+	.fourth-section .insidemassage4 .leftsitefour{
+		margin-left:35%;
+	}
+	.fourth-section .insidemassage4 .rightsitefour .introfour{
+		margin-left:26%;
+		margin-top:3%;
+		width:53%;
+	}
+	.fourth-section .insidemassage4 .rightsitefour .good{
+		margin-left:-39%;
+	}
+	.fourth-section .insidemassage4 .rightsitefour .goodsite{
+		margin-left:27%;
+	}
+}
+@media screen and (max-width:900px){
+	.fourth-section .insidemassage4 .rightsitefour .good{
+		margin-left:-37%;
+	}
+	.fourth-section .insidemassage4 .rightsitefour .goodsite{
+		margin-left:28%;
+	}
+}
+@media screen and (max-width:670px){
+	.fourth-section .insidemassage4 .leftsitefour{
+		margin-left:27%;
+		margin-top:23%;
+	}
+	.fourth-section .insidemassage4 .rightsitefour .introfour{
+		margin-left:26%;
+		margin-top:3%;
+		width:56%;
+	}
+	.fourth-section .insidemassage4 .rightsitefour .good{
+		margin-left:-33%;
+	}
+	.fourth-section .insidemassage4 .rightsitefour .goodsite{
+		margin-left:29%;
+	}
+}
+@media screen and (max-width:450px){
+	.fourth-section .insidemassage4 .leftsitefour{
+		margin-left:15%;
+		margin-top:31%;
+	}
+	.fourth-section .insidemassage4 .rightsitefour .introfour{
+		margin-left:14%;
+		margin-top:3%;
+		width:79%;
+	}
+	.fourth-section .insidemassage4 .rightsitefour .good{
+		margin-left:-50%;
+	}
+	.fourth-section .insidemassage4 .rightsitefour .goodsite{
+		margin-left:18%;
+	}
+}
+@media screen and (max-width:380px){
+	.fourth-section .insidemassage4 .leftsitefour{
+		margin-left:2%;
+		margin-top:39%;
+	}
+	.fourth-section .insidemassage4 .rightsitefour .introfour{
+		margin-left:2%;
+		margin-top:3%;
+		width:97%;
+	}
+	.fourth-section .insidemassage4 .rightsitefour .good{
+		margin-left:-66%;
+	}
+	.fourth-section .insidemassage4 .rightsitefour .goodsite{
+		margin-left:7%;
+	}
+}
+/*fifth-section*/
+.fifth-section .insidemassage5 .leftsitefive{
+	background-color:#ECAAB9;
+	width:300px;
+	height:350px;
+	margin-top:20%;
+}
+.fifth-section .insidemassage5 .leftsitefive img{
+	position:relative;
+	margin-top:-35%;
+	margin-left:63px;
+}
+.fifth-section .insidemassage5 .leftsitefive .title{
+	font-size:30px;
+	font-weight:100;
+	margin-left:-2%;
+}
+.fifth-section .insidemassage5 .leftsitefive .time{
+	margin-left:89px;
+	font-family:arial;
+	color:#434141;
+	font-size:24px;
+	margin-top:-5%;
+}
+.fifth-section .insidemassage5 .leftsitefive .fee1{
+	margin-left:92px;
+	font-family:arial;
+	color:#434141;
+}
+.fifth-section .insidemassage5 .leftsitefive .fee2{
+	margin-left:92px;
+	font-family:arial;
+	color:#434141;
+}
+.fifth-section .insidemassage5 .leftsitefive .text{
+	margin-left:12px;
+	font-family:arial;
+	color:#434141;
+	font-weight:100;
+}
+.fifth-section .insidemassage5 .rightsitefive .introfive{
+	margin-left:40%;
+	margin-top:-30%;
+	font-family:arial;
+	color:#624f3f;
+}
+.fifth-section .insidemassage5 .rightsitefive .good{
+	font-family:arial;
+	margin-left:-11%;
+	color:#996633;
+}
+.fifth-section .insidemassage5 .rightsitefive .goodsite{
+    font-family:arial;
+	font-weight:400;
+	margin-left:41.5%;
+	margin-top:-11px;
+}
+@media screen and (max-width:1110px){
+	.fifth-section .insidemassage5 .leftsitefive{
+		margin-left:35%;
+	}
+	.fifth-section .insidemassage5 .rightsitefive .introfive{
+		margin-left:26%;
+		margin-top:3%;
+		width:53%;
+	}
+	.fifth-section .insidemassage5 .rightsitefive .good{
+		margin-left:-39%;
+	}
+	.fifth-section .insidemassage5 .rightsitefive .goodsite{
+		margin-left:27%;
+	}
+}
+@media screen and (max-width:900px){
+	.fifth-section .insidemassage5 .rightsitefive .good{
+		margin-left:-37%;
+	}
+	.fifth-section .insidemassage5 .rightsitefive .goodsite{
+		margin-left:28%;
+	}
+}
+@media screen and (max-width:670px){
+	.fifth-section .insidemassage5 .leftsitefive{
+		margin-left:27%;
+		margin-top:23%;
+	}
+	.fifth-section .insidemassage5 .rightsitefive .introfive{
+		margin-left:26%;
+		margin-top:3%;
+		width:56%;
+	}
+	.fifth-section .insidemassage5 .rightsitefive .good{
+		margin-left:-33%;
+	}
+	.fifth-section .insidemassage5 .rightsitefive .goodsite{
+		margin-left:29%;
+	}
+}
+@media screen and (max-width:450px){
+	.fifth-section .insidemassage5 .leftsitefive{
+		margin-left:15%;
+		margin-top:31%;
+	}
+	.fifth-section .insidemassage5 .rightsitefive .introfive{
+		margin-left:14%;
+		margin-top:3%;
+		width:79%;
+	}
+	.fifth-section .insidemassage5 .rightsitefive .good{
+		margin-left:-50%;
+	}
+	.fifth-section .insidemassage5 .rightsitefive .goodsite{
+		margin-left:18%;
+	}
+}
+@media screen and (max-width:380px){
+	.fifth-section .insidemassage5 .leftsitefive{
+		margin-left:2%;
+		margin-top:39%;
+	}
+	.fifth-section .insidemassage5 .rightsitefive .introfive{
+		margin-left:2%;
+		margin-top:3%;
+		width:97%;
+	}
+	.fifth-section .insidemassage5 .rightsitefive .good{
+		margin-left:-66%;
+	}
+	.fifth-section .insidemassage5 .rightsitefive .goodsite{
+		margin-left:7%;
+	}
+}
+/*sixth-section*/
+.sixth-section{
+	clear:both;
+}
+.sixth-section{
+	background:url(../images/massagequoteimage.png);
+	height:200px;
+	margin-top:10%;
+	margin-bottom:5%;
+}
+.quote {
+    font-family:arial;
+	font-weight:400;
+	padding-top:8%;
+	font-size:18px;
+}
+cite{
+	font-size:18px;
+	font-weight:400;
+	margin-left:79%;
+}
+@media screen and (max-width:640px){
+      .quote{
+          font-size:16px;
+      }
+      cite{
+      	font-size:16px;
+      	margin-left:62%;
+      }
+}
+/*footer*/
+footer{
+    margin-top:0%;
+}

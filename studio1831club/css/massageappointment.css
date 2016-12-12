@@ -1,0 +1,84 @@
+/*headerimage*/
+.headerimage{
+	background:url(../images/appointmentrenew.png);	
+	height:325px;
+	margin-top:2%;
+	background-size:cover;
+}
+@media screen and (max-width:1120px){
+   .headerimage{
+   	height:300px;
+   }
+}
+@media screen and (max-width:960px){
+   .headerimage{
+   	height:280px;
+   }
+}
+@media screen and (max-width:840px){
+   .headerimage{
+   	height:250px;
+   }
+}
+@media screen and (max-width:680px){
+   .headerimage{
+   	height:210px;
+   }
+}
+@media screen and (max-width:560px){
+   .headerimage{
+   	height:190px;
+   }
+}
+@media screen and (max-width:400px){
+   .headerimage{
+   	height:110px;
+   	margin-top:29%;
+   }
+}
+/*first-section*/
+.first-section h2{
+	font-size:36px;
+	font-family:arial,bold;
+	margin-left:24%;
+	margin-top:5%;
+}
+@media screen and (max-width:740px){
+	.first-section {
+		margin-left:10%;
+	}
+	.first-section h2{
+		margin-left:0%;
+		margin-bottom:3%;
+	}
+}
+@media screen and (max-width:540px){
+	.first-section {
+		margin-left:10%;
+	}
+	.first-section h2{
+		margin-left:0%;
+		margin-bottom:3%;
+		font-size:27px;
+	}
+	form{
+		width:105%;
+	}
+}
+@media screen and (max-width:405px){
+	.first-section {
+		margin-left:0%;
+	}
+	.first-section h2{
+		margin-left:0%;
+		margin-bottom:3%;
+		font-size:21px;
+	}
+	form{
+		width:143%;
+	}
+}
+/*footer*/
+footer{
+    margin-top:0%;
+}
